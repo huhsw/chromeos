@@ -11,7 +11,7 @@
 #
 
 #where the stuff is
-script_url="http://ho.doolim.com/chromeos/scripts/"
+script_url="https://raw.githubusercontent.com/huhsw/chromeos/master/"
 
 #set working dir
 cd /tmp
